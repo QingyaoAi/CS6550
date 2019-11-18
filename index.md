@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Hello World
+# *Introduction to Information Retrieval*
 
 This is a hello
