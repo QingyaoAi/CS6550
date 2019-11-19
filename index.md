@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# *Introduction to Information Retrieval*
+# CS6550 *Introduction to Information Retrieval*
 
 Class Hours: Tuesday/Thursday 9:10-10:30am, WEB 1250
 
