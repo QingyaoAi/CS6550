@@ -39,7 +39,7 @@ The grade will count the assessments using the following proportions:
 
 Week, Date | Topic | Reminder | Slides | Readings
 ------------ | ------------- | ------------- | ------------- | -------------
-Week 01, 01/06 - 01/10 | * __Course Overview__ <br /> Introduce information retrieval and the course organization. <br /> * __The life of a query__ <br /> Modern search engine architecture overview and how information is retrieved for a given search query.
+Week 01, 01/06 - 01/10 | &#9679; __Course Overview__ <br /> Introduce information retrieval and the course organization. <br /> * __The life of a query__ <br /> Modern search engine architecture overview and how information is retrieved for a given search query.
 Week 02, 01/13 - 01/17 | < ul> < li> __Evaluation__ <br /> Introduce the concept of ranking and how to evaluate IR systems with ranking metrics.</li><li> __Crawls and feeds__ <br /> How to collect and create information retrieval collections.</ li></ ul>
 Week 03, 01/20 - 01/24 | <ul> <li> __Processing text__ <br /> The basic techniques for text processing such as stemming, stop words removal, etc.</li><li> __Processing Web__ <br /> Link analysis and spam detection.</li></ul>
 Week 04, 01/27 - 01/31 | <ul> <li> __Indexing__ <br /> Introduce basic indexing techniques (e.g., inverted index) for efficient information retrieval.</li><li> __Compression__ <br /> Data compression and index compression algorithms.</li></ul>
