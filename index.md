@@ -29,11 +29,11 @@ The grade will count the assessments using the following proportions:
   * Project Proposal (5\%)
   * Project Report (15\%)
   * Final Presentation (10\%)
-* __20\%__ of your grade will be determined by the mid-term exam. 
-*	__15\%__ of your grade will be determined by Assignment 1.
-* __15\%__ of your grade will be determined by Assignment 2.
-*	__15\%__ of your grade will be determined by Assignment 3.
-*	__5\%__ of your grade will be determined by your participation. Student who finish the class project, the mid-term exam, and all assignments will receive the full credits of participation. 
+* __20%__ of your grade will be determined by the mid-term exam. 
+*	__15%__ of your grade will be determined by Assignment 1.
+* __15%__ of your grade will be determined by Assignment 2.
+*	__15%__ of your grade will be determined by Assignment 3.
+*	__5%__ of your grade will be determined by your participation. Student who finish the class project, the mid-term exam, and all assignments will receive the full credits of participation. 
 
 ## Tentative Class Schedule
 
