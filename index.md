@@ -26,9 +26,9 @@ Office Hours: Thursday 10:40am-11:40am, MEB 2172
 
 The grade will count the assessments using the following proportions:
 * __30%__ of your grade will be determined by the class project, including:
-  * Project Proposal (5\%)
-  * Project Report (15\%)
-  * Final Presentation (10\%)
+  * Project Proposal (5%)
+  * Project Report (15%)
+  * Final Presentation (10%)
 * __20%__ of your grade will be determined by the mid-term exam. 
 *	__15%__ of your grade will be determined by Assignment 1.
 * __15%__ of your grade will be determined by Assignment 2.
