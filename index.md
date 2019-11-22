@@ -45,8 +45,8 @@ P.S. Doing presentation with classmates together is acceptable, but the bonus po
 
 Week, Date | Topic | Reminder | Slides | Readings
 ------------ | ------------- | ------------- | ------------- | -------------
-Week 01, 01/06 - 01/10 | __&#9642; Course Overview__ <br /> Introduce information retrieval and the course organization. <br />__&#9642; The life of a query__ <br /> Modern search engine architecture overview and how information is retrieved for a given search query.
-Week 02, 01/13 - 01/17 | __&#9642; Evaluation__ <br /> Introduce the concept of ranking and how to evaluate IR systems with ranking metrics.<br />__&#9642; Crawls and feeds__ <br /> How to collect and create information retrieval collections.
+Week 01, 01/06 - 01/10 | __&#9642; Course Overview__ <br /> Introduce information retrieval and the course organization. <br />__&#9642; The life of a query__ <br /> Modern search engine architecture overview and how information is retrieved for a given search query. ||| 
+Week 02, 01/13 - 01/17 | __&#9642; Evaluation__ <br /> Introduce the concept of ranking and how to evaluate IR systems with ranking metrics.<br />__&#9642; Crawls and feeds__ <br /> How to collect and create information retrieval collections. ||| NDCG: <a href="https://www.cc.gatech.edu/~zha/CS8803WST/dcg.pdf">Järvelin and Kekäläinen (TOIS 2002)</a>
 Week 03, 01/20 - 01/24 | __&#9642; Processing text__ <br /> The basic techniques for text processing such as stemming, stop words removal, etc.<br />__&#9642; Processing Web__ <br /> Link analysis and spam detection.
 Week 04, 01/27 - 01/31 | __&#9642; Indexing__ <br /> Introduce basic indexing techniques (e.g., inverted index) for efficient information retrieval.<br />__&#9642; Compression__ <br /> Data compression and index compression algorithms.
 Week 05, 02/03 - 02/07 | __&#9642; Queries__ <br /> Query process techniques including suggestions, reformulation, etc.<br />__&#9642; Retrieval Model (1)__ <br /> Vector space models.
@@ -63,4 +63,6 @@ Week 15, 04/13 - 04/17 | __&#9642; Adv. Personalization__<br />How to personaliz
 Week 16, 04/20 - 04/24 | __&#9642; Course Project Final Presentation__<br />The presentation and evaluation of course projects.
 Week 17, 04/27 - 05/01 | __&#9642; Course Project Report Due__
 
-
+## Acknowledgements
+Special thanks to Dr. Hamed Zamani from Microsoft Research, Prof. Jiepu Jiang from Virginia Tech University, and Prof. James Allan from University of Massachusetts Amherst.
+Some teaching materials are borrowed from their course sites for CS656: Information Retrieval.
