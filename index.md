@@ -35,6 +35,12 @@ The grade will count the assessments using the following proportions:
 *	__15%__ of your grade will be determined by Assignment 3.
 *	__5%__ of your grade will be determined by your participation. Student who finish the class project, the mid-term exam, and all assignments will receive the full credits of participation. 
 
+__*Bonus*__:
+
+__5%__ to __10%__ bonus points are available for students who sign up and finish a paper presentation in one of the lectures. Each presentation include 15 minutes talk and 5 minutes QA. The bonus points are determined according to the quality of the presentation. 
+
+P.S. Doing presentation with classmates together is acceptable, but the bonus points would be split and assigned equally to all the participants. 
+
 ## Tentative Class Schedule
 
 Week, Date | Topic | Reminder | Slides | Readings
