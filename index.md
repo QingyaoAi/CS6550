@@ -55,7 +55,7 @@ Week 13, 03/30 - 04/03 |  __&#9642; Recommendation systems (2)__<br /> Collabora
 Week 14, 04/06 - 04/10 | __&#9642; Adv. Click Models and Unbiased Learning__<br />The idea of biased user behavior and the algorithms for unbiased optimization. <br /> __&#9642; Adv. Personalization__<br />How to personalize retrieval results according to individual information needs.| __Assignment 3 Due (04/12)__
 Week 15, 04/13 - 04/17 |  __&#9642; Adv. Question Answering__<br />Introduction on classic and state-of-the-art methods for question answering in open domains. <br /> __&#9642; Class Project Final Presentation (1)__<br />The presentation and evaluation of course projects.
 Week 16, 04/20 - 04/24 | __&#9642; Class Project Final Presentation (2)__<br />The presentation and evaluation of course projects.
-Week 17, 04/27 - 05/01 | __&#9642; Class Project Report Due (04/29)__
+Week 17, 04/27 - 05/01 | __&#9642; Class Ended__ | __Project Final Report Due (04/29)__
 
 ## Acknowledgements
 Special thanks to Dr. Hamed Zamani from Microsoft Research, Prof. Jiepu Jiang from Virginia Tech University, and Prof. James Allan from University of Massachusetts Amherst.
