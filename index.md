@@ -58,5 +58,5 @@ Week 16, 04/20 - 04/24 | __&#9642; Class Project Final Presentation (2)__<br />T
 Week 17, 04/27 - 05/01 | __&#9642; Class Ended__ | __Project Final Report Due (04/29)__
 
 ## Acknowledgements
-Special thanks to Dr. Hamed Zamani from Microsoft Research, Prof. Jiepu Jiang from Virginia Tech University, and Prof. James Allan from University of Massachusetts Amherst.
-Some teaching materials are borrowed from their course sites for CS656: Information Retrieval.
+Special thanks to Dr. Hamed Zamani from Microsoft Research, Prof. Jiepu Jiang from Virginia Tech University, Prof. Yongfeng Zhang from Rutgers University, and Prof. James Allan from University of Massachusetts Amherst.
+Some teaching materials are borrowed from their courses on CS656: Information Retrieval and CS691: Recommender System.
