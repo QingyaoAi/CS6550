@@ -6,7 +6,7 @@ Class Hours: Tuesday/Thursday 9:10-10:30am, WEB 1250
 
 <a href="http://aiqingyao.org">Qingyao Ai</a>
 
-Office Hours: Thursday 10:40am-11:40am, MEB 2172
+Office Hours: Tuesday 10:40am-11:40am, MEB 2172
 
 ## Prerequisites
 
