@@ -9,7 +9,8 @@ Class Hours: Tuesday/Thursday 9:10-10:30am, WEB 1250
 Office Hours: Tuesday 10:40am-11:40am, MEB 2172
 
 ## Student Feedback
-![SmartEvals QR code](/SmartEvals.png | width=100)
+
+<img src="SmartEvals.png" width="40%">
 
 ## Prerequisites
 
