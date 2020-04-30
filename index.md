@@ -10,7 +10,7 @@ Office Hours: Tuesday 10:40am-11:40am, MEB 2172
 
 ## Student Feedback
 
-<img src="https://github.com/QingyaoAi/CS6550/blob/master/SmartEvals.png" width="40%">
+<img src="./SmartEvals.png" width="40%">
 
 ## Prerequisites
 
